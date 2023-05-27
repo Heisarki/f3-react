@@ -1,0 +1,22 @@
+* {
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
+
+input{
+  background-color: black;
+  border: none;
+  border-bottom: 1px solid white;
+  padding: 10px;
+  /* border-radius: 5px; */
+  outline: none;
+}
+
+button {
+  color: black;
+  width: 100px;
+  height: 40px;
+}
