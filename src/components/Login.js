@@ -17,7 +17,7 @@ export default function Login() {
         if (loginToken) {
             navigate("/profile")
         }
-    },[])
+    },[navigate])
 
     // USer Details State
     const [email, setEmail] = React.useState("")
